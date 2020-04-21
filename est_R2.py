@@ -79,7 +79,7 @@ def wrapper(args):
 num_vars = 2
 
 #dir = os.path.dirname(os.path.abspath(__file__))
-dir = "C:\\Users\\tomo\\Desktop\\electricity\\"
+dir = "C:\\Users\\Desktop\\electricity\\"
 
 #データ格納してるファイルの名前
 file_name_iip = "data_iip"
